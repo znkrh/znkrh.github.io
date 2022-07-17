@@ -525,7 +525,10 @@ a{
 /*Iphone SE and littles phones*/
 @media only screen and (max-width:667px){
     h1.section-title{
-        font-size: 3.5rem;
+        font-size: 3rem;
+    }
+    #header .brand h1{
+        font-size: 2.3rem;
     }
     #header .nav-list ul{
         background-color: white;
