@@ -528,7 +528,8 @@ a{
         font-size: 3rem;
     }
     #header .brand h1{
-        font-size: 2.3rem;
+        font-size: 2rem;
+        margin-left: 39px;
     }
     #header .nav-list ul{
         background-color: white;
